@@ -124,7 +124,7 @@ const QRCodePage: React.FC = () => {
           <div
             className="bg-gradient-to-r from-purple-500 to-blue-500 w-60 h-60 rounded-lg mx-auto flex items-center justify-center"
           >
-            <QRCode value={generateQRCode()} size={250} />
+            <QRCode value={generateQRCode()} size={220} />
           </div>
           <button
             className="mt-4 bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"
