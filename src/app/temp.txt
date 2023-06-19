@@ -1,0 +1,6 @@
+ WIFI colon S colon SSIDNAME semicolon T colon WPA semicolon P colon PASSWORD semicolon semicolon
+
+ MINE ===   WIFI:S:      3rd floor wifi;T:WPA/WPA2;P:DryerInKitchen!!!;;
+                 ^
+            WIFI:T:WPA;S:SSIDNAME;P:PASSWORD;H:;;
+                   ^^^^^                ^ 
